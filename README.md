@@ -2,6 +2,7 @@
 
 This repository contains a Python3 script which allows to download Saarbruecken Voice Database (SVD).
 
+ Have a cup of tea and wait for a couple of hours for the task to be completed.
 
 ## License
 This project is licensed under [SVD dataset License](LICENSE).
