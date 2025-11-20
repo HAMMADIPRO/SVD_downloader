@@ -1,5 +1,8 @@
 # SVD_downloader
 
+[![DOI](https://zenodo.org/badge/598902526.svg)](https://doi.org/10.5281/zenodo.14913981)
+
+
 This repository contains a Python3 script which allows to download Saarbruecken Voice Database (SVD).
 
 Check that you have enough space (≈10Go of data)
